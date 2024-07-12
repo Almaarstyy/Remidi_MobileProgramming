@@ -7,6 +7,6 @@ dengan menampilkan daftar nama mahasiswa sesuai kriteria yang telah ditetapkan.
 # Dokumentasi Pengerjaan
 ![]()
 # Hasil Run Project
-![]()
+![](https://github.com/Almaarstyy/Remidi_MobileProgramming/blob/main/HasilRun.png)
 # Demo Video
 ![](https://github.com/Almaarstyy/Remidi_MobileProgramming/blob/main/DemoVideo-ezgif.com-video-to-gif-converter.gif)
