@@ -6,7 +6,7 @@ dengan menampilkan daftar nama mahasiswa sesuai kriteria yang telah ditetapkan.
 
 # Dokumentasi Pengerjaan
 ![]()
-# Hasil Run Project]
+# Hasil Run Project
 ![]()
 # Demo Video
 ![]()
