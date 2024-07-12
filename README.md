@@ -9,4 +9,4 @@ dengan menampilkan daftar nama mahasiswa sesuai kriteria yang telah ditetapkan.
 # Hasil Run Project
 ![]()
 # Demo Video
-![]()
+![](https://github.com/Almaarstyy/Remidi_MobileProgramming/blob/main/DemoVideo-ezgif.com-video-to-gif-converter.gif)
